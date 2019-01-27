@@ -1,5 +1,11 @@
 # Kildoc
 
+## Status 
+
+This is very much proof of concept code, and I don't intend to actually build this. So if you want to use this, expect to contribute all the work yourself. 
+
+## Goal
+
 I always have to google which characters to use when doing date formats
 
 ```
@@ -21,9 +27,5 @@ echo $format($date); // 2019-02-07T10:25:55+0100
 );
 ```
 
-Find more examples in the tests.
+There are some more examples in the tests.
  
-## Status 
-
-This is very much proof of concept code, so if you want to use this, expect to contribute, or fork it or steal it.
-
