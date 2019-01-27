@@ -29,3 +29,4 @@ echo $format($date); // 2019-02-07T10:25:55+0100
 
 There are some more examples in the tests.
  
+You could do all kinds of fun stuff like `$format->->month()->long()->space()->quote()->year()->twoDigits()` to get `January '19`, but that hasn't been implemented.
